@@ -9,9 +9,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
  ```python
 
-def pieceofCode(){
+def pieceofCode():
 	print("Here is a piece of code")
-}
 ```
 
 
