@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 - liste elemanlarından 2
 - liste elemanlarından 3
 
-''' python
+'''python
 
 def pieceofCode(){
 	print("Here is a piece of code")
